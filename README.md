@@ -4,7 +4,7 @@ I am a Front-End student at Noroff
 
 ## Front End Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
