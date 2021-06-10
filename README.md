@@ -4,6 +4,9 @@ I am a Front-End student at Noroff
 
 ## Front End Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
