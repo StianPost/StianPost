@@ -15,9 +15,10 @@ Right now I am focusing my efforts on learning and mastering JS before going onw
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
