@@ -5,7 +5,7 @@ I am a Front-End student at Noroff
 ## Front End Languages
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=StianPost)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
