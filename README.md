@@ -6,7 +6,7 @@ I am a Front-End student at Noroff
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Misc info
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
