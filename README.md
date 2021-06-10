@@ -1,8 +1,11 @@
 # Hi there 👋
 
 I am a Front-End student at Noroff.
+
 I enjoy coding more than design, but I still got a long way to go.
+
 My skills are more geared towards programming rather than designing and I enjoy learning new tips and tricks.
+
 Right now I am focusing my efforts on learning and mastering JS before going onwards.
 
 ## Front End Languages
