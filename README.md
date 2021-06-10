@@ -11,6 +11,9 @@ I enjoy coding more than design, but I still got a long way to go.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StianPost)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **StianPost/StianPost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
