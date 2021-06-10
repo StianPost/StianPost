@@ -15,8 +15,6 @@ Right now I am focusing my efforts on learning and mastering JS before going onw
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
@@ -25,7 +23,9 @@ Right now I am focusing my efforts on learning and mastering JS before going onw
 
 <!--
 **StianPost/StianPost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Javascript]()
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
