@@ -19,8 +19,6 @@ Right now I am focusing my efforts on learning and mastering JS before going onw
 
 
 
-
-
 <!--
 **StianPost/StianPost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
