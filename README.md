@@ -14,13 +14,13 @@ Right now I am focusing my efforts on learning and mastering JS before going onw
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost&theme=radical&hide_border=true)]
 
 ### Misc info
 
-[![Stian's GitHub stats](https://github-readme-stats.vercel.app/api?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stian's GitHub stats](https://github-readme-stats.vercel.app/api?username=StianPost&theme=radical&hide_border=true)]
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StianPost&theme=dark&hide_border=true)]
 
 
 
