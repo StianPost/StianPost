@@ -5,7 +5,7 @@ I am a Front-End student at Noroff.
 I enjoy coding more than design, but I still got a long way to go.
 
 My skills are more geared towards programming rather than designing and I enjoy learning new tips and tricks.
-Right now I am focusing my efforts on learning and mastering JS before going onwards.
+Right now I am learning React and NextJS, though I am trying to steer more towards Backend
 
 ## Front End Languages
 
@@ -13,6 +13,7 @@ Right now I am focusing my efforts on learning and mastering JS before going onw
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=nextjs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
