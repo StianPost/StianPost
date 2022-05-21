@@ -13,7 +13,7 @@ Right now I am learning React and NextJS, though I am trying to steer more towar
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next)
+![Next](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextjs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StianPost&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
