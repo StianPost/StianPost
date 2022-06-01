@@ -7,6 +7,9 @@ I enjoy coding more than design, but I still got a long way to go.
 My skills are more geared towards programming rather than designing and I enjoy learning new tips and tricks.
 Right now I am learning React and NextJS, though I am trying to steer more towards Backend
 
+## Portfolio
+https://postfolio.netlify.app/
+
 ## Front End Languages
 
 
