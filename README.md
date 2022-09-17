@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Front-End student at Noroff.
+I am a Front-End dev!
 
 I enjoy coding more than design, but I still got a long way to go.
 
